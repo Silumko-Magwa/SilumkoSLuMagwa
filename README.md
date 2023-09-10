@@ -10,7 +10,7 @@ Skills: Power BI / Power Apps / Power Automate / SQL / C# / Python
 
 - 🔭 I’m currently working on Being a Full Stack MS & Power Platforms Developer.  
 - 🌱 I’m currently learning Power Platforms, D365, Azure. 
-- 💬 Ask me about What makes me tick? The Ambition to Great and Give Back. 
+- 💬 Ask me about What makes me tick? The Ambition to be Great and Give Back. 
 - ⚡ Fun fact: I DO NOT QUIT 
 
 
